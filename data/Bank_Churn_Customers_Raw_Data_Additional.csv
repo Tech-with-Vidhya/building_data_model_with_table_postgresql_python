@@ -1,0 +1,12 @@
+CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+15628320,John,400,Germany,Male,30,5,57369.51,1,1,1,42085.58,0
+15628321,Mary,689,France,Female,33,2,76075.31,2,1,1,38190.78,0
+15628322,Lisa,711,France,Female,29,6,100042.05,1,1,1,92888.52,0
+15628323,Andrea,543,Germany,Female,35,4,57369.51,2,0,1,42085.58,0
+15628324,Callen,597,Germany,Male,30,10,66075.54,1,1,0,92888.52,0
+15628325,Victor,765,Germany,Male,45,4,77045.31,2,0,0,38190.78,1
+15628326,Mellisa,486,France,Female,39,7,86025.11,1,0,0,42085.58,1
+15628327,Nancy,602,France,Female,30,5,57369.51,2,1,0,92888.52,1
+15628328,Erica,689,Germany,Female,37,4,110142.95,2,0,1,101699.77,1
+15628329,Francis,746,Germany,Male,30,5,72070.31,1,0,1,42085.58,1
+15628330,Steve,729,France,Male,31,10,57369.51,1,0,0,38190.78,0
